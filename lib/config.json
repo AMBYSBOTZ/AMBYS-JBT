@@ -2,13 +2,13 @@
   "thumb": "https://telegra.ph/file/f9b2ed3ff30d538f086ae.jpg",
   "namebot": "AMBYS BOTZ",
   "botNumber": "6282122379874@s.whatsapp.net",
-  "owner": ["6282221792667@s.whatsapp.net"],
+  "owner": ["6285798267620@s.whatsapp.net"],
   "instagram": "https://instagram.com/prm2.0",
   "author": "BOTCAHX",
   "session": "senku-md",
   "email": "tioclkp02@gmail.com",
   "self": false,
-  "limit": { "limitUser": 100, "gameLimitUser": 100, "gameLimitPremium": 300 },
+  "limit": { "limitUser": 100, "gameLimitUser": 100, "gameLimitPremium": 999 },
   "packInfo":{
     "packname": "Recode",
     "author": "AMBYS BOTZ ✓"
