@@ -48,7 +48,7 @@ module.exports = {
 				  	category[cteg].push(info);
 		  		}
         }
-        teks = global.footer + " *[ Recode Dari Senkuu-MD]*\n\n"
+        teks = global.footer + " *[ EHE ]*\n\n"
 		  	teks += monospace(" ❏ Library : Baileys-MD") + "\n"
 		  	teks += monospace(" ❏ Author : " + "@" + config.owner[0].split("@")[0] )+ "\n"
 		  	teks += monospace(" ❏ Prefix : [ " + pref + " ]") + "\n\n"
@@ -75,14 +75,14 @@ module.exports = {
 			  		category[cteg].push(info);
 			  	}
         }
-			menu = global.footer + " *[ Recode Dari Senkuu-MD ]*\n\n"
+			menu = global.footer + " *[ EHE ]*\n\n"
 			menu += monospace(" ❏ Library : Baileys-MD") + "\n"
 			menu += monospace(" ❏ Author : " + "@" + config.owner[0].split("@")[0] )+ "\n"
 			menu += monospace(" ❏ Prefix : [ " + pref + " ]") + "\n"
 			menu += monospace(" ❏ Date : " + date) + "\n"
 			menu += monospace(" ❏ Time : " + time) + "\n"
 		  menu += monospace(" ❏ Speed :  " + processTime(msg.messageTimestamp, moment()) + " Seccond") + "\n\n"
-		  menu += "*This Bot script is : https://github.com/xzeera-id/Senkuu-MD*\n*Script Recode  : https://github.com/BOTCAHX/Senkuu-MD*\n_The sign ❌ means the Error or Feature is being Disabled by the Owner!!_\n\n"
+		  menu += "*This Bot script is : https://github.com/BOTCAHX/Senkuu-MD*\n_The sign ❌ means the Error or Feature is being Disabled by the Owner!!_\n\n"
 			menu += monospace(`Halo, @${sender.split("@")[0]} Here my Command List`) +`\n\n`;
 			const keys = Object.keys(category)
 			menu += "*乂 CATEGORY MENU*\n"
