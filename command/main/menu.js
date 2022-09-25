@@ -1,4 +1,4 @@
-//WM JANGAN DI HAPUS DEKK
+//WM JNGAN DI HAPUS DEKK
 
 const { monospace } = require('../../lib/function')
 const fs = require("fs");
