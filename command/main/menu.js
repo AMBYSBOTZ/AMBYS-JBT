@@ -48,7 +48,7 @@ module.exports = {
 				  	category[cteg].push(info);
 		  		}
         }
-        teks = global.footer + " *[ EHE ]*\n\n"
+        teks = global.footer + " *[ AMBYS BOTZ ]*\n\n"
 		  	teks += monospace(" ❏ Library : Baileys-MD") + "\n"
 		  	teks += monospace(" ❏ Author : " + "@" + config.owner[0].split("@")[0] )+ "\n"
 		  	teks += monospace(" ❏ Prefix : [ " + pref + " ]") + "\n\n"
@@ -75,7 +75,7 @@ module.exports = {
 			  		category[cteg].push(info);
 			  	}
         }
-			menu = global.footer + " *[ EHE ]*\n\n"
+			menu = global.footer + " *[ AMBYS BOTZ ]*\n\n"
 			menu += monospace(" ❏ Library : Baileys-MD") + "\n"
 			menu += monospace(" ❏ Author : " + "@" + config.owner[0].split("@")[0] )+ "\n"
 			menu += monospace(" ❏ Prefix : [ " + pref + " ]") + "\n"
