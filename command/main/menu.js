@@ -82,7 +82,7 @@ module.exports = {
 			menu += monospace(" ❏ Date : " + date) + "\n"
 			menu += monospace(" ❏ Time : " + time) + "\n"
 		  menu += monospace(" ❏ Speed :  " + processTime(msg.messageTimestamp, moment()) + " Seccond") + "\n\n"
-		  menu += "*support dengan follow kak : https://instagram.com/granger_ambys?igshid=YmMyMTA2M2Y=*\n_The sign ❌ means the Error or Feature is being Disabled by the Owner!!_\n\n"
+		  menu += "*bantu follow ig gua aja makasih : https://instagram.com/granger_ambys?igshid=YmMyMTA2M2Y=*\n_The sign ❌ means the Error or Feature is being Disabled by the Owner!!_\n\n"
 			menu += monospace(`Halo, @${sender.split("@")[0]} Here my Command List`) +`\n\n`;
 			const keys = Object.keys(category)
 			menu += "*乂 CATEGORY MENU*\n"
